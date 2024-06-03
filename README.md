@@ -1,2 +1,0 @@
-# PelicanDocs
-PelicanDocs
