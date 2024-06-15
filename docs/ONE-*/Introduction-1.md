@@ -6,3 +6,15 @@ Welcome to PelicanMc! PelicanMc is a Discord bot designed to seamlessly connect 
 ```Note
 Test :)
 ```
+```Get
+Test :)
+```
+```Post
+Test :)
+```
+```Shell
+npm i discord.js
+```
+```js
+const fs = require('fs');
+```
