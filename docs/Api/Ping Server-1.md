@@ -6,7 +6,7 @@ The ProMcBot API allows you to interact with Minecraft servers by providing IP a
 
 ## Base URL
 
-```
+```Get
 http://45.140.165.216:1056/api
 ```
 
